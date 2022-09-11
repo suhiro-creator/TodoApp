@@ -64,10 +64,3 @@ li {
   align-items: center;
   padding-bottom: 4px;
 }
-
-/*モバイル対応*/
-@media (max-width: 600px) {
-  .input-area {
-    width: auto;
-  }
-}
